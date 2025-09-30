@@ -2,3 +2,5 @@
 Repositorio ICO Ifsc 2025-2
 
 Este é o arquivo README.md 
+
+Esta é uma alteração REMOTA
